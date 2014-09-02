@@ -206,7 +206,7 @@ public class  Console extends JFrame implements ActionListener, Runnable {
 
 
 	/* 
-	 * Used when system is running to decide the the programs to be executed on the SRV-1
+	 * Used when system is running to decide the programs to be executed on the SRV-1
 	 * (non-Javadoc)
 	 * @see java.lang.Runnable#run()
 	 */
