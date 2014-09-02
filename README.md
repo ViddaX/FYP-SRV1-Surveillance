@@ -1,4 +1,4 @@
 FYP-SRV1-Surveillance
 =====================
 
-An autonomous service-oriented based robot surveillance system using the SRV-1 robot interacting with Sun SPOT devices
+An autonomous service-oriented based robot surveillance system. The SRV-1 robot patrols an area and deploys services at Sun SPOT locations when requested.
